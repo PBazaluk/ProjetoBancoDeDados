@@ -1,0 +1,22 @@
+[
+    {"time_slot_id": "A", "day": "M", "start_time": "8:00", "end_time": "8:50"},
+    {"time_slot_id": "A", "day": "W", "start_time": "8:00", "end_time": "8:50"},
+    {"time_slot_id": "A", "day": "F", "start_time": "8:00", "end_time": "8:50"},
+    {"time_slot_id": "B", "day": "M", "start_time": "9:00", "end_time": "9:50"},
+    {"time_slot_id": "B", "day": "W", "start_time": "9:00", "end_time": "9:50"},
+    {"time_slot_id": "B", "day": "F", "start_time": "9:00", "end_time": "9:50"},
+    {"time_slot_id": "C", "day": "M", "start_time": "11:00", "end_time": "11:50"},
+    {"time_slot_id": "C", "day": "W", "start_time": "11:00", "end_time": "11:50"},
+    {"time_slot_id": "C", "day": "F", "start_time": "11:00", "end_time": "11:50"},
+    {"time_slot_id": "D", "day": "M", "start_time": "13:00", "end_time": "13:50"},
+    {"time_slot_id": "D", "day": "W", "start_time": "13:00", "end_time": "13:50"},
+    {"time_slot_id": "D", "day": "F", "start_time": "13:00", "end_time": "13:50"},
+    {"time_slot_id": "E", "day": "T", "start_time": "10:30", "end_time": "11:45"},
+    {"time_slot_id": "E", "day": "R", "start_time": "10:30", "end_time": "11:45"},
+    {"time_slot_id": "F", "day": "T", "start_time": "14:30", "end_time": "15:45"},
+    {"time_slot_id": "F", "day": "R", "start_time": "14:30", "end_time": "15:45"},
+    {"time_slot_id": "G", "day": "M", "start_time": "16:00", "end_time": "16:50"},
+    {"time_slot_id": "G", "day": "W", "start_time": "16:00", "end_time": "16:50"},
+    {"time_slot_id": "G", "day": "F", "start_time": "16:00", "end_time": "16:50"},
+    {"time_slot_id": "H", "day": "W", "start_time": "10:00", "end_time": "12:30"}
+]

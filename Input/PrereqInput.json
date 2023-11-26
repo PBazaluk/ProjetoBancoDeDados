@@ -1,0 +1,9 @@
+[
+    {"course_id": "BIO-301", "prereq_id": "BIO-101"},
+    {"course_id": "BIO-399", "prereq_id": "BIO-101"},
+    {"course_id": "CS-190", "prereq_id": "CS-101"},
+    {"course_id": "CS-315", "prereq_id": "CS-101"},
+    {"course_id": "CS-319", "prereq_id": "CS-101"},
+    {"course_id": "CS-347", "prereq_id": "CS-101"},
+    {"course_id": "EE-181", "prereq_id": "PHY-101"}
+]

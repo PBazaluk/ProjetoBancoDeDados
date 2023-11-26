@@ -1,7 +1,0 @@
-[
-  {"building": "Packard", "room_no": "101", "capacity": "500"},
-  {"building": "Painter", "room_no": "514", "capacity": "10"},
-  {"building": "Taylor", "room_no": "3128", "capacity": "70"},
-  {"building": "Watson", "room_no": "100", "capacity": "30"},
-  {"building": "Watson", "room_no": "120", "capacity": "50"}
-]
